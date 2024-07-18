@@ -4,7 +4,8 @@ churn, the process through which customers cease their relationship with a bank,
 become a focal point of analysis and strategic planning within the banking sector. The 
 ability to predict, understand, and mitigate customer churn has profound implications, 
 influencing customer satisfaction, revenue, and market reputation.
-What is Bank Customer Churn?
+
+What is **Bank Customer Churn**?
 Customer churn, in the context of this project, refers to the phenomenon where banking 
 customers discontinue their association with a particular financial institution. It is a 
 multi-faceted challenge influenced by an array of factors such as demographics, 
